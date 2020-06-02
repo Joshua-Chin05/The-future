@@ -51,7 +51,7 @@ img {margin: 30px;
 }
 
 .navWrapper_1 {
-    width: 50%; 
+    width: 33%; 
     height: 100%;
     background: grey;
     text-align: center;
@@ -59,7 +59,15 @@ img {margin: 30px;
     font-size: 30px;
 }
 .navWrapper_2 {
-    width: 50%; 
+    width: 33%; 
+    height: 100%;
+    background: grey;
+    text-align: center;
+    color: black;
+    font-size: 30px
+}
+.navWrapper_3 {
+    width: 33%; 
     height: 100%;
     background: grey;
     text-align: center;
